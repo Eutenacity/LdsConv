@@ -6,7 +6,7 @@ under review
 # Requirments
 pytorch >= 1.1
 
-#Get Start
+# Get Start
 
 # Results
 |Model|Error(top-1)|GFLOPs|Params(M)|
