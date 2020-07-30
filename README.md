@@ -1,5 +1,5 @@
 # LdsConv
-LdsConv: Improved Depthwise Separable Convolutions by Group Pruning
+LdsConv: Learned Depthwise Separable Convolutions by Group Pruning
 
 under review
 
