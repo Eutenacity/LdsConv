@@ -1,8 +1,6 @@
 # LdsConv
 LdsConv: Learned Depthwise Separable Convolutions by Group Pruning
 
-coming soon
-
 # Requirments
 pytorch >= 1.1
 
