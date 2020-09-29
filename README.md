@@ -7,7 +7,7 @@ coming soon
 pytorch >= 1.1
 
 # Get Start
-
+Just python train.py or python imagenet_train_densenet.py
 # Results
 |Model|Error(top-1)|GFLOPs|Params(M)|
 |----|----|----|----|
