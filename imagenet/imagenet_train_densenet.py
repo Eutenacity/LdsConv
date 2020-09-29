@@ -42,9 +42,8 @@ parser.add_argument('--name', default='DenseNet_BC_100_12', type=str,
                     help='name of experiment')
 parser.add_argument('--tensorboard',
                     help='Log progress to TensorBoard', action='store_true')
-parser.set_defaults(bottleneck=True)
 parser.set_defaults(augment=True)
-parser.set_defaults(resume='save/save_models/checkpoint_071.pth.tar')
+#parser.set_defaults(resume='save/save_models/checkpoint_071.pth.tar')
 best_prec1 = 0
 
 
